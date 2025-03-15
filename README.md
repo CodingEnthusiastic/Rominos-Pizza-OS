@@ -7,7 +7,7 @@ Rominus Pizza aims to implement a **Pizza Scheduling System** by simulating diff
 [Visit the Deployed Website](https://rominospizza.netlify.app/)
 
 ### 📂 Project Link
-[Download Project Zip File](https://github.com/CodingEnthusiastic/Rominos-Pizza-OS)
+[Look for files](https://github.com/CodingEnthusiastic/Rominos-Pizza-OS)
 
 ---
 
